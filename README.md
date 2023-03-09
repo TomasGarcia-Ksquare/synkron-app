@@ -4,7 +4,7 @@ A Flutter project for The Ksquare Group.
 
 ## Live Demo
 
-[![Live Demo](https://img.youtube.com/vi/AOx2pMSh_PA&feature=youtu.be&ab_channel=Tom%C3%A1sGarc%C3%ADa/0.jpg)](https://www.youtube.com/watch?v=AOx2pMSh_PA&feature=youtu.be&ab_channel=Tom%C3%A1sGarc%C3%ADa)
+[![Live Demo](https://img.youtube.com/vi/AOx2pMSh_PA/0.jpg)](https://www.youtube.com/watch?v=AOx2pMSh_PA&feature=youtu.be&ab_channel=Tom%C3%A1sGarc%C3%ADa)
 
 ## Getting Started
 
